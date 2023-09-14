@@ -4,7 +4,6 @@ balance = 50.30
 calcule = 4j
 hasName = True
 
-
 print(("O tipo da variável year é {}".format(type(year))))
 print(("O tipo da variável name é {}".format(type(name))))
 print(("O tipo da variável balance é {}".format(type(balance))))
